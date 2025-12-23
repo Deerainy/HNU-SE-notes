@@ -1,0 +1,122 @@
+site_name: HNU SE Notes
+site_url: ""
+
+theme:
+  name: material
+  language: zh
+  custom_dir: docs/overrides
+  features:
+    - navigation.tracking
+    - search.highlight
+    - content.code.copy
+
+  palette:
+    - scheme: default
+
+plugins:
+  - search
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+nav:
+  - 首页: index.zh.md
+
+  - 语言学习:
+      - 模块总览: languages/index.md
+      - 英语:
+          - 托福（TOEFL）: languages/english/toefl/index.md
+          - 雅思（IELTS）: languages/english/ielts/index.md
+    #   - 日语:
+    #       - 日语总览: languages/japanese/index.md
+
+  - 大一上学期:
+      - 学期总览: y1-fall/index.zh.md
+      - 高等数学A（上）: courses/calculus-a-1/index.zh.md
+      - 程序设计基础: courses/programming-basics/index.zh.md
+      - 大学英语（一）: courses/college-english-1/index.zh.md
+
+  - 大一下学期:
+      - 学期总览: y1-spring/index.zh.md
+      - 中国近现代史纲要: courses/modern-chinese-history/index.zh.md
+      - 数据结构: courses/data-structures/index.zh.md
+      - 离散数学: courses/discrete-math/index.zh.md
+      - 计算机系统基础（一）: courses/cs-fundamentals-1/index.zh.md
+      - 高等数学A（二）: courses/calculus-a-2/index.zh.md
+      - 大学语文: courses/chinese-language/index.zh.md
+      - 大学英语（二）: courses/college-english-2/index.zh.md
+
+  - 大二上学期:
+      - 学期总览: y2-fall/index.zh.md
+      - 线性代数: courses/linear-algebra/index.zh.md
+      - 概率论与数理统计: courses/probability-statistics/index.zh.md
+      - 面向对象软件方法学: courses/oop-methodology/index.zh.md
+      - 操作系统: courses/operating-systems/index.zh.md
+      - Web前端设计与开发: courses/web-frontend-development/index.zh.md
+      - 算法设计与分析: courses/algorithm-design/index.zh.md
+      - 雅思、托福考试策略与实践: courses/ielts-toefl-strategy/index.zh.md
+
+  - 大二下学期:
+      - 学期总览: y2-spring/index.zh.md
+      - 数学建模与实验: courses/math-modeling-lab/index.zh.md
+      - 数据库系统: courses/database-systems/index.zh.md
+      - 计算机网络: courses/computer-networks/index.zh.md
+      - Web应用开发: courses/web-app-dev/index.zh.md
+      - 智能终端应用: courses/intelligent-terminal-app/index.zh.md
+      - 编译原理与技术: courses/compiler-principles/index.zh.md
+      - 马克思主义基本原理: courses/marxism-fundamentals/index.zh.md
+
+  - 大三上学期:
+      - 学期总览: y3-fall/index.zh.md
+      - 软件工程: courses/software-engineering/index.zh.md
+      - 系统分析与设计: courses/system-analysis-design/index.zh.md
+      - 数据科学导论: courses/data-science-intro/index.zh.md
+      - Linux系统与编程: courses/linux-programming/index.zh.md
+
+  - 大三下学期:
+      - 学期总览: y3-spring/index.zh.md
+      - 软件体系结构: courses/software-architecture/index.zh.md
+      - 软件质量保证与测试: courses/software-quality-testing/index.zh.md
+      - 软件项目管理: courses/project-management/index.zh.md
+      - 嵌入式系统基础: courses/embedded-system-basics/index.zh.md
+      - 机器学习: courses/machine-learning/index.zh.md
+      - 毛泽东思想和中国特色社会主义理论体系概论: courses/mao-zedong-theory/index.zh.md
+      - 习近平新时代中国特色社会主义思想概论: courses/xi-jinping-thought/index.zh.md
+
+#   - 科研:
+#       - 模块总览: research/index.zh.md
+#       - 专利: research/patents/index.zh.md
+#       - 论文: research/papers/index.zh.md
+
+#   - 竞赛:
+#       - 模块总览: competitions/index.zh.md
+#       - ACM / 算法竞赛: competitions/acm/index.zh.md
+
+#   - 考证:
+#       - 模块总览: certifications/index.zh.md
+#       - 教师资格证: certifications/teacher-cert/index.zh.md
+
+#   - 升学:
+#       - 模块总览: admission/index.zh.md
+#       - 保研: admission/recommendation/index.zh.md
+#       - 考研: admission/entrance-exam/index.zh.md
+
+#   - 工作:
+#       - 模块总览: career/index.zh.md
+#       - 实习: career/internship/index.zh.md
+#       - 秋招 / 春招: career/job-hunting/index.zh.md
+
+#   - 生活:
+#       - 模块总览: life/index.zh.md
+#       - 吃喝: life/food/index.zh.md
+#       - 玩乐: life/travel/index.zh.md
+
+
+extra_css:
+  - stylesheets/catppuccin-frappe.css
