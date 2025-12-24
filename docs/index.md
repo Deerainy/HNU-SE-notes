@@ -129,7 +129,6 @@
 ---
 ![Last Commit](https://img.shields.io/github/last-commit/Deerainy/HNU-SE-notes?color=8b7cf6)
 
-
 ## 👥 Contributors
 
 <div class="contributors">
