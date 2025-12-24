@@ -6,7 +6,8 @@
 
 ## 📂 项目结构说明
 
-** 1️⃣ GitHub（展示层）**
+**1️⃣ GitHub（展示层**
+
 📍 https://github.com/Deerainy/HNU-SE-notes
 
 - 用于展示课程目录、学习说明、导航页面
@@ -17,7 +18,8 @@
 
 ---
 
-** 2️⃣ Hugging Face Dataset（资料层）**
+**2️⃣ Hugging Face Dataset（资料层**
+
 📍 https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 - 用于长期保存课程资料文件
@@ -37,11 +39,12 @@
 - 🧪 实验报告 / 作业（ZIP）
 - 📚 历年试题 / 复习资料
 
-**  请勿上传 **
+**请勿上传**
+
 - 含个人隐私的信息
 - 明显侵权或商业用途资料
 
-** 不要上传到 GitHub 的内容 **
+**不要上传到 GitHub 的内容**
 
 请注意：
 
@@ -55,7 +58,7 @@
 
 这些文件 **会导致网站构建失败**。
 
-**  正确的上传位置 **
+**正确的上传位置**
 
 👉 **所有资料文件统一上传到 Hugging Face Dataset：**
 
@@ -65,7 +68,7 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 ## 🚀 上传方式说明
 
-** 方式 A：成为 Dataset Contributor（推荐）**
+**方式 A：成为 Dataset Contributor（推荐**
 
 适合希望**长期维护或多次上传资料**的同学。
 
@@ -82,7 +85,7 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 ---
 
-** 方式 B：由维护者代上传（临时）**
+**方式 B：由维护者代上传（临时**
 
 如果你不熟悉 Hugging Face：
 
@@ -105,14 +108,14 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
   - **operating-system/**
   - **README.md**
 
-** 文件命名建议 **
+**文件命名建议**
 
 课程名-内容-年份-作者.pdf(其中课程名二作者为必填项)
 
 示例：算法设计-期末复习-2023-DRN.pdf
 
 
-**  如何在网站中展示你的资料？ **
+**如何在网站中展示你的资料**
 
 网站页面 **不直接展示文件**，只提供下载入口。
 
@@ -141,13 +144,13 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 本网站所整理与发布的内容，主要用于**个人学习记录、复习整理与学习经验交流**，不以任何形式获取商业利益。
 
-** 📖 关于内容来源与版权 **
+**📖 关于内容来源与版权**
 
 - 本站部分笔记与资料整理自课堂内容、公开教材、学术资料及个人学习总结。
 - 若您认为本站内容**存在侵权、不当引用或版权问题**，请及时与我联系。
 - 在核实相关情况后，我将**第一时间对内容进行修改或删除**。
 
-** 🚫 关于使用范围 **
+**🚫 关于使用范围**
 
 - 本站所有内容 **仅限个人学习与非商业交流使用**。
 - **严禁任何形式的转载牟利、打包售卖、课程倒卖、付费社群分发等商业行为**。
