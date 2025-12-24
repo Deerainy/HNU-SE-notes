@@ -68,7 +68,7 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 ## 🚀 上传方式说明
 
-**方式 A：成为 Dataset Contributor（推荐**
+**方式 A：成为 Dataset Contributor（推荐）**
 
 适合希望**长期维护或多次上传资料**的同学。
 
@@ -76,8 +76,11 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 1. 注册 Hugging Face 账号  
 2. 将你的 **HF 用户名** 发送给项目维护者  
 3. 被添加为 **Contributor（Write 权限）** 后：
+
    - 进入 Dataset 页面
+  
    - 点击 **Files and versions**
+  
    - 使用网页上传或命令行上传文件
 
 ✔ 所有修改都有历史记录  
@@ -85,7 +88,7 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 ---
 
-**方式 B：由维护者代上传（临时**
+**方式 B：由维护者代上传（临时）**
 
 如果你不熟悉 Hugging Face：
 

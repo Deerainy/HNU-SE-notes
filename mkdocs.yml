@@ -100,19 +100,19 @@ nav:
 #       - 模块总览: competitions/index.zh.md
 #       - ACM / 算法竞赛: competitions/acm/index.zh.md
 
-#   - 考证:
-#       - 模块总览: certifications/index.zh.md
-#       - 教师资格证: certifications/teacher-cert/index.zh.md
+  - 考证:
+      - 模块总览: certifications/index.zh.md
+      - 教师资格证: certifications/teacher-cert/index.zh.md
 
-#   - 升学:
-#       - 模块总览: admission/index.zh.md
-#       - 保研: admission/recommendation/index.zh.md
-#       - 考研: admission/entrance-exam/index.zh.md
+  - 升学:
+      - 模块总览: admission/index.zh.md
+      - 保研: admission/recommendation/index.zh.md
+      - 考研: admission/entrance-exam/index.zh.md
 
-#   - 工作:
-#       - 模块总览: career/index.zh.md
-#       - 实习: career/internship/index.zh.md
-#       - 秋招 / 春招: career/job-hunting/index.zh.md
+  - 工作:
+      - 模块总览: career/index.zh.md
+      - 实习: career/internship/index.zh.md
+      - 秋招 / 春招: career/job-hunting/index.zh.md
 
 #   - 生活:
 #       - 模块总览: life/index.zh.md
