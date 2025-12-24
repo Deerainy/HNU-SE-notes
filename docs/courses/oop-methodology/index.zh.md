@@ -9,20 +9,20 @@
 
 ### 📘 笔记
 
-- [java期末实训笔记-DRN.pdf](notes/java期末实训笔记-DRN.pdf)
-- [Java笔记本（手写）-DRN.pdf](notes/Java笔记本（手写）-DRN.pdf)  
+- [java期末实训笔记-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/oop-methodology/notes/java期末实训笔记-DRN.pdf)
+- [Java笔记本（手写）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/oop-methodology/notes/Java笔记本（手写）-DRN.pdf)  
 
 ---
 
 ### 📚 课本 / 参考书
 
-- [Java 2实用教程.pdf](notes/Java 2实用教程.pdf)
+- [Java 2实用教程.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/oop-methodology/notes/Java 2实用教程.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [JAVA简答题参考答案.pdf](notes/JAVA简答题参考答案.pdf)
+- [JAVA简答题参考答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/oop-methodology/notes/JAVA简答题参考答案.pdf)
 
 ---
 <!-- 

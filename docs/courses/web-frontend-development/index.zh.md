@@ -11,4 +11,4 @@
 
 ## 📄 课程资料  
 
-- [Web前端开发技术 HTML5CSS3JavaScript 储久良 .pdf](notes/Web前端开发技术 HTML5CSS3JavaScript 储久良 .pdf)
+- [Web前端开发技术 HTML5CSS3JavaScript 储久良 .pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/web-frontend-development/notes/Web前端开发技术 HTML5CSS3JavaScript 储久良 .pdf)

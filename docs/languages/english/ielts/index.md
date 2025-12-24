@@ -6,23 +6,23 @@
 ---
 
 ### ✍️ 写作
-- 📄 [6.5–1 写作（PPT）.pptx](./6.5-1写作(1).pptx)
+- 📄 [6.5–1 写作（PPT）.pptx](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts/6.5-1写作(1).pptx)
 
 ---
 
 ### 📝 题库 / 练习
-- 📄 [May–August 月题库.pdf](./May-august月题库 .pdf)
+- 📄 [May–August 月题库.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts/May-august月题库 .pdf)
 
 ---
 
 ### 🗣 口语
-- 📄 [口语常用表达.pdf](./口语常用表达.pdf)
-- 📄 [口语化.pdf](./口语化.pdf)
+- 📄 [口语常用表达.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts/口语常用表达.pdf)
+- 📄 [口语化.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts/口语化.pdf)
 
 ---
 
 ### 📖 词汇
-- 📄 [高分词汇.pdf](./高分词汇.pdf)
+- 📄 [高分词汇.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts/高分词汇.pdf)
 
 ---
 

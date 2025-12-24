@@ -12,14 +12,14 @@
 
 ### 📘 笔记
 
-- [数学建模概念题-DRN.pdf](notes/数学建模概念题-DRN.pdf)
+- [数学建模概念题-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/math-modeling-lab/notes/数学建模概念题-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [数学建模算法与应用第3版.pdf](notes/数学建模算法与应用第3版.pdf)
-- [数学建模算法与应用习题解答（第3版）程序及数据.zip](notes/数学建模算法与应用习题解答（第3版）程序及数据.zip)
+- [数学建模算法与应用第3版.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/math-modeling-lab/notes/数学建模算法与应用第3版.pdf)
+- [数学建模算法与应用习题解答（第3版）程序及数据.zip](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/math-modeling-lab/notes/数学建模算法与应用习题解答（第3版）程序及数据.zip)
 
 ---
 <!-- 

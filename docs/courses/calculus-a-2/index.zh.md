@@ -8,4 +8,4 @@
 
 ## 📄 课程资料  
 
-- [同济大学高等数学电子教材第七版下册.pdf](notes/同济大学高等数学电子教材第七版下册.pdf)
+- [同济大学高等数学电子教材第七版下册.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/calculus-a-2/notes/同济大学高等数学电子教材第七版下册.pdf)

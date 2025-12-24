@@ -10,13 +10,13 @@
 
 ### 📘 笔记
 
-- [期末复习（C语言）-DRN.pdf](notes/期末复习（C语言）-DRN.pdf)
+- [期末复习（C语言）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/data-structures/notes/期末复习（C语言）-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [严蔚敏 数据结构  C语言版.pdf](notes/严蔚敏 数据结构  C语言版.pdf)
+- [严蔚敏 数据结构  C语言版.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/data-structures/notes/严蔚敏 数据结构  C语言版.pdf)
 
 ---
 <!-- ---

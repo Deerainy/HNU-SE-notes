@@ -17,23 +17,23 @@
 
 ### 📚 课本 / 参考书
 
-- [UML2面向对象分析与设计.pdf](notes/UML2面向对象分析与设计.pdf)
+- [UML2面向对象分析与设计.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/UML2面向对象分析与设计.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [2024秋季学期《系统分析与设计》课程考试内容.pdf](notes/2024秋季学期《系统分析与设计》课程考试内容.pdf)
-- [uml期末考试题A卷.pdf](notes/uml期末考试题A卷.pdf)
-- [uml期末考试题A卷答案.pdf](notes/uml期末考试题A卷答案.pdf)
-- [uml期末考试题B卷.pdf](notes/uml期末考试题B卷.pdf)
-- [uml期末考试题B卷答案.pdf](notes/uml期末考试题B卷答案.pdf)
-- [UML试题及其答案.pdf](notes/UML试题及其答案.pdf)
-- [UML课后简答题.pdf](notes/UML课后简答题.pdf)
-- [UML软件建模技术技术理论期末考核试题4套含答案(大学期末复习资料).pdf](notes/UML软件建模技术技术理论期末考核试题4套含答案(大学期末复习资料).pdf)
+- [2024秋季学期《系统分析与设计》课程考试内容.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/2024秋季学期《系统分析与设计》课程考试内容.pdf)
+- [uml期末考试题A卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/uml期末考试题A卷.pdf)
+- [uml期末考试题A卷答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/uml期末考试题A卷答案.pdf)
+- [uml期末考试题B卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/uml期末考试题B卷.pdf)
+- [uml期末考试题B卷答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/uml期末考试题B卷答案.pdf)
+- [UML试题及其答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/UML试题及其答案.pdf)
+- [UML课后简答题.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/UML课后简答题.pdf)
+- [UML软件建模技术技术理论期末考核试题4套含答案(大学期末复习资料).pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/UML软件建模技术技术理论期末考核试题4套含答案(大学期末复习资料).pdf)
 - [填空题.pdf](notes/填空题.pdf)
-- [软件建模技术实训考核试卷C卷.pdf](notes/软件建模技术实训考核试卷C卷.pdf)
-- [软件建模技术实训考核试卷D卷.pdf](notes/软件建模技术实训考核试卷D卷.pdf)
+- [软件建模技术实训考核试卷C卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/软件建模技术实训考核试卷C卷.pdf)
+- [软件建模技术实训考核试卷D卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/system-analysis-design/notes/软件建模技术实训考核试卷D卷.pdf)
 
 ---
 

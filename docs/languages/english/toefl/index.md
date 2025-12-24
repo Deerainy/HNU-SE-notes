@@ -24,10 +24,10 @@ ps：听说托福又有变化了，此篇笔记仅总结2025/4前备考的一些
 
 我一开始属于是词也听不懂的程度，于是就不停的去做精听精写，然后去看什么单词没听出来，但起色不太大（因为我也没有好好背单词。。。）后来发现听力部分的关键并不是听清每一个单词，而是跟上讲座或对话的**结构走向**。其中最重要的就是抓住关键的结构词，以及分清楚整个听力中的逻辑关系，所以后期精听的话，懂意思的单词和句子不用再反复誊抄，浪费时间，直接上框架和关键词就行。
 
-ps：听力时的笔记不是越多越好，建议学一下口译中的符号表达[口译笔记法.pdf](./口译笔记法.pdf)
+ps：听力时的笔记不是越多越好，建议学一下口译中的符号表达[口译笔记法.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/口译笔记法.pdf)
 
 ### 笔记
-- 📄 [听力-DRN.pdf](./听力-DRN.pdf)
+- 📄 [听力-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/听力-DRN.pdf)
 
 ---
 
@@ -37,10 +37,10 @@ ps：听力时的笔记不是越多越好，建议学一下口译中的符号表
 
 比较好的是，他的题目和所在段落大多都会标注出来，而且是顺序的，故顺着仔细边读边做就ok。然后就是要在平时训练注意力的集中，要一直盯着屏幕硬看那么久还是挺难的（于我而言）
 
-平时训练的话，阅读复盘仔细一点比较好，可以先边抠生词，边翻译，然后再一句话去概括这一段的意义/意思/作用，然后再去刷一遍题，可以参考[阅读复盘案例-DRN.pdf](./阅读复盘案例-DRN.pdf)
+平时训练的话，阅读复盘仔细一点比较好，可以先边抠生词，边翻译，然后再一句话去概括这一段的意义/意思/作用，然后再去刷一遍题，可以参考[阅读复盘案例-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/阅读复盘案例-DRN.pdf)
 
 ### 笔记
-- 📄 [阅读-DRN.pdf](./阅读-DRN.pdf)
+- 📄 [阅读-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/阅读-DRN.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ ps：听力时的笔记不是越多越好，建议学一下口译中的符号表
 平时在背默单词的时候，要注意发音。ps：看美剧/英剧很有效果！我看了就有想开口表达的冲动！备考期间就这样看完了《生活大爆炸》全部。。。
 
 ### 笔记
-- 📄 [口语-DRN.pdf](./口语-DRN.pdf)
+- 📄 [口语-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/口语-DRN.pdf)
 
 ---
 
@@ -60,12 +60,12 @@ ps：听力时的笔记不是越多越好，建议学一下口译中的符号表
 写作部分更强调逻辑与结构清晰度，然后适当备一点高级词汇和句型，以及生活中的名人/社会案例（这个写小作文需要）就ok了
 
 ### 笔记
-- 📄 [写作-DRN.pdf](./写作-DRN.pdf)
+- 📄 [写作-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/写作-DRN.pdf)
 
 ---
 
 ### 真题资料（复盘阅读用）
-- 📦 [托福阅读 OG + TPO 1–54（压缩包）](./托福阅读OG+TPO1-54.zip)
+- 📦 [托福阅读 OG + TPO 1–54（压缩包）](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/托福阅读OG+TPO1-54.zip)
 
 ---
 
@@ -73,6 +73,6 @@ ps：听力时的笔记不是越多越好，建议学一下口译中的符号表
 
 这个是我的老师每天给我背默用的资料，各刷了两轮（我真的背不住单词！咋这样！）
 
-- 📄 [2021 六级.pdf](./2021六级.pdf)
-- 📄 [2023 四级.pdf](./2023四级.pdf)
+- 📄 [2021 六级.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/2021六级.pdf)
+- 📄 [2023 四级.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/toefl/2023四级.pdf)
 

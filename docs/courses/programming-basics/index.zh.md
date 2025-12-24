@@ -8,7 +8,7 @@
 
 ## 📄 课程资料  
 
-- [程序设计_期末复习-DRN.pdf](notes/程序设计_期末复习-DRN.pdf)
-- [图书管理系统_课程设计-DRN.pdf](notes/图书管理系统_课程设计-DRN.pdf)
+- [程序设计_期末复习-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/programming-basics/notes/程序设计_期末复习-DRN.pdf)
+- [图书管理系统_课程设计-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/programming-basics/notes/图书管理系统_课程设计-DRN.pdf)
 
 

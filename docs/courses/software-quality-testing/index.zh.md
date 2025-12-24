@@ -10,20 +10,20 @@
 
 ### 📘 笔记
 
-- [软件质量保证与测试-DRN.pdf](notes/软件质量保证与测试-DRN.pdf)
+- [软件质量保证与测试-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/software-quality-testing/notes/软件质量保证与测试-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [软件质量保证与测试_课本.pdf](notes/软件质量保证与测试_课本.pdf)
+- [软件质量保证与测试_课本.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/software-quality-testing/notes/软件质量保证与测试_课本.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [软件质量测试_34习题.pdf](notes/软件质量测试_34习题.pdf)
-- [选择.pdf](notes/选择.pdf)
+- [软件质量测试_34习题.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/software-quality-testing/notes/软件质量测试_34习题.pdf)
+- [选择.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/software-quality-testing/notes/选择.pdf)
 
 ---
 <!-- 

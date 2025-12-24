@@ -10,7 +10,7 @@ GRE的话，波珠没上过具体的补习课程，也没有参考，故下面�
 
 ## 📄 课程资料  
 
-- [GRE 6套题 Practice Tests 1.pdf](notes/GRE 6套题 Practice Tests 1.pdf)
-- [GRE 6套题 Practice Tests 2.pdf](notes/GRE 6套题 Practice Tests 2.pdf)
-- [GRE 6套题 Practice Tests 5.pdf](notes/GRE 6套题 Practice Tests 5.pdf)
-- [GRE 6套题 Practice Tests 6.pdf](notes/GRE 6套题 Practice Tests 6.pdf)
+- [GRE 6套题 Practice Tests 1.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts-toefl-strategy/notes/GRE 6套题 Practice Tests 1.pdf)
+- [GRE 6套题 Practice Tests 2.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts-toefl-strategy/notes/GRE 6套题 Practice Tests 2.pdf)
+- [GRE 6套题 Practice Tests 5.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts-toefl-strategy/notes/GRE 6套题 Practice Tests 5.pdf)
+- [GRE 6套题 Practice Tests 6.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/ielts-toefl-strategy/notes/GRE 6套题 Practice Tests 6.pdf)

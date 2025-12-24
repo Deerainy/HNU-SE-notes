@@ -10,10 +10,10 @@
 
 ### 📘 笔记
 
-- [Android复习-DRN.pdf](notes/Android复习-DRN.pdf)
-- [智能终端代码实验集合-DRN.pdf](notes/智能终端代码实验集合-DRN.pdf)
-- [简答题-DRN.pdf](notes/简答题-DRN.pdf)
-- [android智能终端笔记📒（手写）-DRN.pdf](notes/android智能终端笔记📒（手写）-DRN.pdf)
+- [Android复习-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/Android复习-DRN.pdf)
+- [智能终端代码实验集合-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/智能终端代码实验集合-DRN.pdf)
+- [简答题-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/简答题-DRN.pdf)
+- [android智能终端笔记📒（手写）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/android智能终端笔记📒（手写）-DRN.pdf)
   
 ---
 
@@ -25,8 +25,8 @@
 
 ### 📝 重点 / 题库
 
-- [2020上 智能终端应用 - 期末考试试卷-A卷.pdf](notes/2020上 智能终端应用 - 期末考试试卷-A卷.pdf)
-- [2024  智能终端  期末考试范围.pdf](notes/2024  智能终端  期末考试范围.pdf)
+- [2020上 智能终端应用 - 期末考试试卷-A卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/2020上 智能终端应用 - 期末考试试卷-A卷.pdf)
+- [2024  智能终端  期末考试范围.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/intelligent-terminal-app/notes/2024  智能终端  期末考试范围.pdf)
 
 ---
 

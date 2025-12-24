@@ -28,6 +28,8 @@ markdown_extensions:
 nav:
   - 首页: index.md
 
+  - 说明: commit.md
+
   - 语言学习:
       - 模块总览: languages/index.md
       - 英语:

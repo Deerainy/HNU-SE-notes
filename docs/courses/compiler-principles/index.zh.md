@@ -10,21 +10,21 @@
 
 ### 📘 笔记
 
-- [编译原理习题册（手写）-DRN.pdf](notes/编译原理习题册（手写）-DRN.pdf)
-- [编译原理笔记本📒（手写）-DRN.pdf](notes/编译原理笔记本📒（手写）-DRN.pdf)
+- [编译原理习题册（手写）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/compiler-principles/notes/编译原理习题册（手写）-DRN.pdf)
+- [编译原理笔记本📒（手写）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/compiler-principles/notes/编译原理笔记本📒（手写）-DRN.pdf)
 
 ---
 
 ### 📚 课本 / 参考书
 
-- [《编译原理 第3版》清华大学出版社.pdf](notes/《编译原理 第3版》清华大学出版社.pdf)
-- [程序设计语言编译原理.pdf](notes/程序设计语言编译原理.pdf)
+- [《编译原理 第3版》清华大学出版社.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/compiler-principles/notes/《编译原理 第3版》清华大学出版社.pdf)
+- [程序设计语言编译原理.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/compiler-principles/notes/程序设计语言编译原理.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [编译原理期末重点-DRN.pdf](notes/编译原理期末重点-DRN.pdf)
+- [编译原理期末重点-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/compiler-principles/notes/编译原理期末重点-DRN.pdf)
 
 ---
 

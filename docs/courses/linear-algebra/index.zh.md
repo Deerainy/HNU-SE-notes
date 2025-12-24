@@ -16,17 +16,17 @@
 
 ### 📚 课本 / 参考书
 
-- [工程数学线性代数.pdf](notes/工程数学线性代数.pdf)
-- [线性代数（英）.pdf](notes/线性代数（英）.pdf)
+- [工程数学线性代数.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/工程数学线性代数.pdf)
+- [线性代数（英）.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/线性代数（英）.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [原数计院线代习题.pdf](notes/原数计院线代习题.pdf)
-- [线性代数复习提纲.pdf](notes/线性代数复习提纲.pdf)
-- [线性代数样卷.pdf](notes/线性代数样卷.pdf)
-- [样卷答案.pdf](notes/样卷答案.pdf)
+- [原数计院线代习题.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/原数计院线代习题.pdf)
+- [线性代数复习提纲.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/线性代数复习提纲.pdf)
+- [线性代数样卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/线性代数样卷.pdf)
+- [样卷答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/linear-algebra/notes/样卷答案.pdf)
 
 ---
 

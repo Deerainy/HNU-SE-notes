@@ -8,4 +8,4 @@
 
 ## 📄 课程资料  
 
-- [软件体系结构_复习资料.pdf](notes/软件体系结构_复习资料.pdf)
+- [软件体系结构_复习资料.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/software-architecture/notes/软件体系结构_复习资料.pdf)

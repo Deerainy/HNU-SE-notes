@@ -10,20 +10,20 @@
 
 ### 📘 笔记
 
-- [javaweb简答题-DRN.pdf](notes/javaweb简答题-DRN.pdf)
+- [javaweb简答题-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/web-app-dev/notes/javaweb简答题-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [Java Web编程技术（第3版）.pdf](notes/Java Web编程技术（第3版）.pdf)
-- [Java Web编程技术（第3版）题解与实验指导.pdf](notes/Java Web编程技术（第3版）题解与实验指导.pdf)
+- [Java Web编程技术（第3版）.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/web-app-dev/notes/Java Web编程技术（第3版）.pdf)
+- [Java Web编程技术（第3版）题解与实验指导.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/web-app-dev/notes/Java Web编程技术（第3版）题解与实验指导.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [web实验（期末重点-DRN.pdf](notes/web实验（期末重点-DRN.pdf)
+- [web实验（期末重点-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/web-app-dev/notes/web实验（期末重点-DRN.pdf)
 
 
 ---

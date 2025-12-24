@@ -10,25 +10,25 @@
 
 ### 📘 笔记
 
-- [机器学习视频笔记-DRN.pdf](notes/机器学习视频笔记-DRN.pdf)
+- [机器学习视频笔记-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/machine-learning/notes/机器学习视频笔记-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [Python机器学习.pdf](notes/Python机器学习.pdf)
+- [Python机器学习.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/machine-learning/notes/Python机器学习.pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [机器学习_复习资料-DRN.pdf](notes/机器学习_复习资料-DRN.pdf)
+- [机器学习_复习资料-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/machine-learning/notes/机器学习_复习资料-DRN.pdf)
 
 ---
 
 ### 📦 其他资料
 
-- [HandWritingNeurlNet-DRN.py](notes/HandWritingNeurlNet-DRN.py)
+- [HandWritingNeurlNet-DRN.py](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/machine-learning/notes/HandWritingNeurlNet-DRN.py)
 
 ---
 

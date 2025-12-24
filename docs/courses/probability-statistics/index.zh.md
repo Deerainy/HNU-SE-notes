@@ -16,15 +16,15 @@
 
 ### 📚 课本 / 参考书
 
-- [概率论与数理统计 (同济大学数学系) .pdf](notes/概率论与数理统计 (同济大学数学系) .pdf)
+- [概率论与数理统计 (同济大学数学系) .pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/probability-statistics/notes/概率论与数理统计 (同济大学数学系) .pdf)
 
 ---
 
 ### 📝 重点 / 题库
 
-- [概率统计典型习题3.pdf](notes/概率统计典型习题3.pdf)
-- [概率统计复习题2-1.pdf](notes/概率统计复习题2-1.pdf)
-- [概率论与数理统计模拟试卷及答案.pdf](notes/概率论与数理统计模拟试卷及答案.pdf)
+- [概率统计典型习题3.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/probability-statistics/notes/概率统计典型习题3.pdf)
+- [概率统计复习题2-1.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/probability-statistics/notes/概率统计复习题2-1.pdf)
+- [概率论与数理统计模拟试卷及答案.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/probability-statistics/notes/概率论与数理统计模拟试卷及答案.pdf)
 
 ---
 

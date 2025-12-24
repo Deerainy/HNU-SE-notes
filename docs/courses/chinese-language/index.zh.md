@@ -7,7 +7,7 @@
 
 ## 📄 课程资料  
 
-- [⼤学语⽂（北院）考核试题.pdf](notes/⼤学语⽂（北院）考核试题.pdf)
+- [⼤学语⽂（北院）考核试题.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/chinese-language/notes/⼤学语⽂（北院）考核试题.pdf)
 
 
 

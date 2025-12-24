@@ -10,13 +10,13 @@
 
 ### 📘 笔记
 
-- [实验重点-DRN.pdf](notes/实验重点-DRN.pdf)
+- [实验重点-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/embedded-system-basics/notes/实验重点-DRN.pdf)
   
 ---
 
 ### 📚 课本 / 参考书
 
-- [John Craig 约翰 克雷格《机器人学导论》第4版 SM 答案（完整）.pdf](notes/John Craig 约翰 克雷格《机器人学导论》第4版 SM 答案（完整）.pdf)
+- [John Craig 约翰 克雷格《机器人学导论》第4版 SM 答案（完整）.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/embedded-system-basics/notes/John Craig 约翰 克雷格《机器人学导论》第4版 SM 答案（完整）.pdf)
 
 ---
 

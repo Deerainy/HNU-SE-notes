@@ -10,7 +10,7 @@
 
 ### 📘 笔记
 
-- [高数做题笔记（手写）-DRN.pdf](notes/高数做题笔记（手写）-DRN.pdf)
+- [高数做题笔记（手写）-DRN.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/calculus-a-1/notes/高数做题笔记（手写）-DRN.pdf)
   
 ---
 
@@ -22,9 +22,9 @@
 
 ### 📝 重点 / 题库
 
-- [高数A卷.pdf](notes/高数A卷.pdf)
-- [高数一（多学时）练习题.pdf](notes/高数一（多学时）练习题.pdf)
-- [高数复习（1）.pdf](notes/高数复习（1）.pdf)
+- [高数A卷.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/calculus-a-1/notes/高数A卷.pdf)
+- [高数一（多学时）练习题.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/calculus-a-1/notes/高数一（多学时）练习题.pdf)
+- [高数复习（1）.pdf](https://huggingface.co/datasets/Deerainy/HNU-SE-materials/resolve/main/calculus-a-1/notes/高数复习（1）.pdf)
 
 ---
 
