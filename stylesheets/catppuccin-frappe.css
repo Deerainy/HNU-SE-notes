@@ -1,0 +1,191 @@
+/* Quiet Light theme for MkDocs Material */
+/* Inspired by editor Quiet Light: low saturation, calm lavender-gray */
+
+[data-md-color-scheme="default"] {
+    /* 背景与文字 */
+    --md-default-bg-color: #f4f2f8;          /* very light lavender gray */
+    --md-default-fg-color: #5b5a5d;          /* deep quiet gray-purple */
+    --md-default-fg-color--light: #514a5d;
+    --md-default-fg-color--lighter: #6b6377;
+  
+    /* 表面层：侧边栏 / 卡片 / 代码块 */
+    --md-surface-bg-color: #eeebf5;
+    --md-code-bg-color: #eeebf5;
+    --md-code-fg-color: #2f2a36;
+  
+    /* 主色与强调色（不艳的紫） */
+    --md-primary-fg-color: #7b6ea8;
+    --md-accent-fg-color: #7b6ea8;
+    --md-typeset-a-color: #7b6ea8;
+  
+    /* 分割线 / 表格 */
+    --md-typeset-table-color: #cbc2e0;
+  }
+  
+  /* 顶栏 & tabs：编辑器那种“安静的淡紫条” */
+  [data-md-color-scheme="default"] .md-header,
+  [data-md-color-scheme="default"] .md-tabs {
+    background: #cbc2e0;
+    color: #2f2a36;
+  }
+  
+  /* 侧边栏 */
+  [data-md-color-scheme="default"] .md-sidebar__scrollwrap {
+    background: #f4f2f8;
+  }
+  
+  /* 代码块更柔和 */
+  pre,
+  .highlight {
+    border-radius: 12px;
+  }
+
+  /* 按钮更像“静谧紫” */
+  .giscus-frame .btn-primary {
+    background-color: #7b6ea8 !important;
+    border-color: #7b6ea8 !important;
+    color: #fff !important;
+    border-radius: 12px !important;
+  }
+  .giscus-frame .btn-primary:hover {
+    background-color: #6f6399 !important;
+  }
+  /* Home page tiny components */
+  .home-divider {
+    margin: 2rem 0 1.2rem;
+    height: 1px;
+    background: #e6e1f2;
+  }
+  
+  .home-comments-hint {
+    color: #6b6377;
+    margin-bottom: 0.75rem;
+  }
+  
+  /* Make cards softer (Material grid cards already exists) */
+  .md-typeset .grid.cards > :is(ul, ol) > li,
+  .md-typeset .grid.cards > .card {
+    border: 1px solid #e6e1f2;
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(47,42,54,0.05);
+  }
+  
+  /* Card title spacing */
+  .md-typeset .grid.cards strong {
+    font-size: 1.02em;
+  }
+  /* ===== Semester nav (Quiet Light) ===== */
+.semester-nav {
+    display: grid;
+    gap: 14px;
+    margin-top: 12px;
+  }
+  
+  .semester {
+    border: 1px solid #e6e1f2;
+    border-radius: 18px;
+    background: #f6f4fa;
+    overflow: hidden;
+    box-shadow: 0 10px 26px rgba(47, 42, 54, 0.05);
+  }
+  
+  .semester > summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    user-select: none;
+  }
+  
+  .semester > summary::-webkit-details-marker { display: none; }
+  
+  .semester > summary .emoji {
+    width: 26px;
+    height: 26px;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    background: #ece8f7;
+  }
+  
+  .semester > summary .title {
+    font-weight: 700;
+    color: #2e2a36;
+  }
+  
+  .semester > summary .year {
+    margin-left: auto;
+    color: #6a6378;
+    font-weight: 600;
+    font-size: 0.9em;
+  }
+  
+  /* right chevron */
+  .semester > summary::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    margin-left: 8px;
+    border-right: 2px solid #6a6378;
+    border-bottom: 2px solid #6a6378;
+    transform: rotate(45deg);
+    transition: transform 180ms ease;
+  }
+  
+  .semester[open] > summary::after {
+    transform: rotate(-135deg);
+  }
+  
+  .semester .content {
+    padding: 0 16px 16px;
+  }
+  
+  .semester .links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  @media (max-width: 720px) {
+    .semester .links { grid-template-columns: 1fr; }
+  }
+  
+  .semester .links a {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 14px;
+    border: 1px solid #e8e3f4;
+    background: #fbfaff;
+    color: #3a3150;
+    text-decoration: none;
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  }
+  
+  .semester .links a:hover {
+    border-color: #cdbff0;
+    box-shadow: 0 10px 18px rgba(47,42,54,0.08);
+    transform: translateY(-1px);
+  }
+  /* ===== GitHub repo meta =====
+.repo-meta {
+    margin: 0.8rem 0 1.4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .repo-meta img {
+    height: 22px;
+  }
+  .gh-actions{
+    display:flex;
+    gap:12px;
+    flex-wrap:wrap;
+    margin: .8rem 0 1.2rem;
+  } */
+  
