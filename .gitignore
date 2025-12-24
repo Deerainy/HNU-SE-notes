@@ -2,3 +2,10 @@
 *.ppt
 *.pptx
 *.zip
+# do not put large materials into mkdocs site
+docs/**/*.pdf
+docs/**/*.ppt
+docs/**/*.pptx
+docs/**/*.zip
+docs/**/*.rar
+docs/**/*.7z
