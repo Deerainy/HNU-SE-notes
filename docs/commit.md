@@ -2,13 +2,13 @@
 
 本项目用于整理与长期保存 **湖南师范大学软件工程专业** 相关课程的学习资料与笔记，分为两个相互配合的部分：
 
----
+***
 
 ## 📂 项目结构说明
 
 **1️⃣ GitHub（展示层）**
 
-📍 https://github.com/Deerainy/HNU-SE-notes
+📍 <https://github.com/Deerainy/HNU-SE-notes>
 
 - 用于展示课程目录、学习说明、导航页面
 - **仅存放 Markdown 文档**
@@ -16,11 +16,11 @@
 
 👉 你现在看到的网站页面，来自这里。
 
----
+***
 
 **2️⃣ Hugging Face Dataset（资料层）**
 
-📍 https://huggingface.co/datasets/Deerainy/HNU-SE-materials
+📍 <https://huggingface.co/datasets/Deerainy/HNU-SE-materials>
 
 - 用于长期保存课程资料文件
 - 支持大文件（PDF / PPT / ZIP）
@@ -28,7 +28,7 @@
 
 👉 **所有课程资料文件请上传到这里。**
 
----
+***
 
 ## 📌 我可以上传哪些内容？
 
@@ -38,7 +38,7 @@
 - 📝 笔记整理（PDF / Markdown / Word）
 - 🧪 实验报告 / 作业（ZIP）
 - 📚 历年试题 / 复习资料
-  
+
 每份经验贴前、文件名后请加上自己的id，如“（DRN）”、“-DRN”。
 个人整理的资料建议打上水印和title。
 
@@ -46,7 +46,6 @@
 
 - 含个人隐私的信息
 - 明显侵权或商业用途资料
-
 
 请注意：
 
@@ -64,9 +63,9 @@
 
 👉 **所有资料文件统一上传到 Hugging Face Dataset：**
 
-https://huggingface.co/datasets/Deerainy/HNU-SE-materials
+<https://huggingface.co/datasets/Deerainy/HNU-SE-materials>
 
----
+***
 
 ## 🚀 上传方式说明
 
@@ -75,20 +74,18 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 适合希望**长期维护或多次上传资料**的同学。
 
 **操作流程：**
-1. 注册 Hugging Face 账号  
-2. 将你的 **HF 用户名** 发送给项目维护者  
-3. 被添加为 **Contributor（Write 权限）** 后：
 
+1. 注册 Hugging Face 账号
+2. 将你的 **HF 用户名** 发送给项目维护者
+3. 被添加为 **Contributor（Write 权限）** 后：
    - 进入 Dataset 页面
-  
    - 点击 **Files and versions**
-  
    - 使用网页上传或命令行上传文件
 
-✔ 所有修改都有历史记录  
-✔ 可追溯、可回滚  
+✔ 所有修改都有历史记录\
+✔ 可追溯、可回滚
 
----
+***
 
 **方式 B：由维护者代上传（临时）**
 
@@ -98,7 +95,7 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 - 发送给项目维护者
 - 由维护者统一上传与整理
 
----
+***
 
 ## 📁 目录结构规范（请遵守）
 
@@ -119,26 +116,25 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 示例：算法设计-期末复习-2023-DRN.pdf
 
-
 **如何在网站中展示你的资料**
 
 网站页面 **不直接展示文件**，只提供下载入口。
 
 故请再dataset处获取对应的下载链接，并参考course中的应用方式，加入到网站页面中。
 
----
+***
 
 ## 📎 文件命名与后缀说明
 
 为便于区分资料来源与整理者，本仓库部分文件（手工整理文件）在命名中使用统一后缀标识。
 
-| 后缀标识 | 对应作者 |
-|--------|----------|
-| DRN | Deerainy  |
+| 后缀标识 | 对应作者     |
+| ---- | -------- |
+| DRN  | Deerainy |
 
 > 注：后缀仅用于区分资料来源与整理责任，不代表内容的完整性或权威性。
 
----
+***
 
 ## 📌 声明与使用说明
 
@@ -160,9 +156,8 @@ https://huggingface.co/datasets/Deerainy/HNU-SE-materials
 
 整理这些笔记的初衷，是希望将学习过程中形成的知识结构与经验沉淀下来，用于交流与互助。
 
-若这些内容能对你有所帮助，我会非常开心；  
-但若被用于商业化倒卖或牟利行为，恕不接受。
+不可用于任何商业化/倒卖等牟利行为。
 
-感谢理解与尊重，也感谢每一位认真学习的人。
+希望这些内容能对你有所帮助！
 
 —— *Deerainy*
